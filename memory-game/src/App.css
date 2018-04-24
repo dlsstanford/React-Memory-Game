@@ -22,4 +22,6 @@
 
 .jumbotron {
   width: 90%;
+  background-image: url(./components/ClickedCard/img/warriors.jpg);
+  background-size: 100%;
 }
