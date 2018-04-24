@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Pelicans",
+    "image": "./img/pelicans.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Timberwolves",
+    "image": "./img/timberwolves.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Warriors",
+    "image": "./img/dubs.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "76ers",
+    "image": "./img/76ers.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Bucks",
+    "image": "./img/bucks.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Cavs",
+    "image": "./img/cavs.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Jazz",
+    "image": "./img/jazz.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Wizards",
+    "image": "./img/wizards.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Blazers",
+    "image": "./img/trailblazers.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Spurs",
+    "image": "./img/spurs.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Raptors",
+    "image": "./img/raptors.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Rockets",
+    "image": "./img/rockets.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Pacers",
+    "image": "./img/pacers.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Thunder",
+    "image": "./img/thunder.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Celtics",
+    "image": "./img/celtics.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Heat",
+    "image": "./img/heat.png",
+    "clicked": false
+  }
+]
