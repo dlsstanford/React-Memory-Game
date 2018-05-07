@@ -1,4 +1,4 @@
-# ES(craper)N
+# Golden State Click em'
 Memory Game web application built using React.js framework.
 > Demo Application can be viewed at: https://dlsstanford.github.io/React-Memory-Game/
 
