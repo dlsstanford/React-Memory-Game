@@ -2,6 +2,8 @@
 Memory Game web application built using React.js framework.
 > Demo Application can be viewed at: https://dlsstanford.github.io/React-Memory-Game/
 
+![React](/memory-game/public/img/2.jpg)
+
 ## Technologies Used
 - React.js
 
